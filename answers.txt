@@ -1,0 +1,5 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science could be applied to almost all fields I think. An example is my major 
+neuroscience. Any type of research requires data analysis, and data science techniques are 
+used for it.
